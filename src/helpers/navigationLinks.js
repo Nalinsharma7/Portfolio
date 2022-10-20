@@ -5,7 +5,7 @@ export const navigationLinks = [
 },
 {
     name:'ABOUT ME',
-    ref:'#about me'
+    ref:'#about-me'
 },
 {
     name:'TECHNOLOGIES',
