@@ -6,3 +6,12 @@
     --font-color:hsl(0, 0%, 100%);
     --font-color-hover:hsl(0, 0%, 60%);
 }
+
+.tsparticles-canvas-el{
+    position: inherit !important;
+    min-height: 96vh;
+}
+
+#tsparticles{
+    height: 100vh;
+}
